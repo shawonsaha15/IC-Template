@@ -10,6 +10,6 @@
 
  How to use:
  - Go to Logisim -> Window -> Preferences
- - Select "Template" tab, choose "Custom template:" and browse for the file.
+ - Select "Template" tab, click on "Custom template:"'s "Select" button and browse for the file.
  - Select the file and Restart Logisim
  - Drag and drop the ICs from the template on your main circuit
