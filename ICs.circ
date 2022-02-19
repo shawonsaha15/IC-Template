@@ -567,6 +567,8 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <text font-family="SansSerif" font-size="11" text-anchor="middle" x="94" y="125">IC 74153</text>
       <text font-family="SansSerif" font-size="12" text-anchor="middle" x="70" y="213">GND</text>
       <text font-family="SansSerif" font-size="12" text-anchor="middle" x="123" y="73">Vcc</text>
+      <text font-family="SansSerif" font-size="12" text-anchor="middle" x="94" y="142">2x 4:1</text>
+      <text font-family="SansSerif" font-size="12" text-anchor="middle" x="95" y="152">MUX</text>
       <circ-port height="8" pin="90,30" width="8" x="46" y="66"/>
       <circ-port height="8" pin="90,80" width="8" x="46" y="86"/>
       <circ-port height="8" pin="90,130" width="8" x="136" y="106"/>
