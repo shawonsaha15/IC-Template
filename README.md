@@ -10,7 +10,7 @@
  - IC 74153 (2x 4:1 MUX)
  - IC 7483 (4-bit Full Adder)
 
-** How to use:**
+**How to use:**
  - Go to Logisim -> Window -> Preferences
  - Select "Template" tab, click on "Custom template:"'s "Select" button and browse for the file.
  - Select the file and Restart Logisim
