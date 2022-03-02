@@ -7,9 +7,12 @@
  - 2-input OR, IC 7432
  - 2-input XOR, IC 7486
  - Inverter (NOT), IC 7404
+ - IC 74153 (2x 4:1 MUX)
+ - IC 7483 (4-bit Full Adder)
 
- How to use:
+** How to use:**
  - Go to Logisim -> Window -> Preferences
  - Select "Template" tab, click on "Custom template:"'s "Select" button and browse for the file.
  - Select the file and Restart Logisim
- - Click and drop the ICs from the template on your main circuit
+ - Click on 'Add Circuit' button to make a new canvas
+ - Click and drop the ICs from the circuit list on the new canvas
