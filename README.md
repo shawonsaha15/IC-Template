@@ -4,6 +4,7 @@
 
  It contains the diagrams for the following ICs:
  - 2-input AND, IC 7408
+ - 3-input AND, IC 7411
  - 2-input OR, IC 7432
  - 2-input XOR, IC 7486
  - Inverter (NOT), IC 7404
