@@ -6,10 +6,12 @@
  - 2-input AND, IC 7408
  - 3-input AND, IC 7411
  - 2-input OR, IC 7432
+ - 3-input OR, IC 4075
  - 2-input XOR, IC 7486
  - Inverter (NOT), IC 7404
  - IC 74153 (2x 4:1 MUX)
  - IC 7483 (4-bit Full Adder)
+ - 4-bit Multiplier IC (Customized)
 
 **How to use:**
  - Go to Logisim -> Window -> Preferences
